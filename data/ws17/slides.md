@@ -105,32 +105,80 @@ técnicas ou ciências.
 --
 
 ## <img align="left" width="auto" height="100" src="img/img-4.png">
+## 4 SCV - GitHub
+
+<br>
+
+<p style="text-align: left">
+
+1. **Registo**
+
+<br>
+
+2. **Login**
+
+<br>
+
+3. **Exercício**
+
+</p>
+
+----
+
+## <img align="left" width="auto" height="100" src="img/img-4.png">
 ## 3.2 SCV - Git
 
 <img align="left" width="auto" height="100" src="img/img-5.png">
+
 <br><br><br>
+
 <p style="text-align: left">
+
 **branch -** criação de uma divergência/ramo para alterações
+
 <br><br>
+
 1. **Local [master]**<br>
-&nbsp;&nbsp;&nbsp; $ git branch NOME_BRANCH<br>
-&nbsp;&nbsp;&nbsp; $ git checkout NOME_BRANCH<br>
-&nbsp;&nbsp;&nbsp; * criar/modificar **e** versionar *<br>
-&nbsp;&nbsp;&nbsp; $ checkout master<br>
-&nbsp;&nbsp;&nbsp; $ git merge NOME_BRANCH<br>
+	&nbsp;&nbsp;&nbsp; $ git branch NOME_BRANCH<br>
+	&nbsp;&nbsp;&nbsp; $ git checkout NOME_BRANCH<br>
+	&nbsp;&nbsp;&nbsp; * criar/modificar **e** versionar *<br>
+	&nbsp;&nbsp;&nbsp; $ checkout master<br>
+	&nbsp;&nbsp;&nbsp; $ git merge NOME_BRANCH<br>
+
 </p>
 
 --
 
 ## <img align="left" width="auto" height="100" src="img/img-4.png">
-## 4 SCV - GitHub
+## More Git
+
+<br><br><br>
+
+<p style="text-align: left">
+
+1. Selecionado para versionamento
 
 <br>
-<p style="text-align: left">
-1. **Registo**
+
+	&nbsp;&nbsp;&nbsp; **Undo -** git reset NOME_FICHEIRO
+
 <br>
-2. **Login**
+
+2. Alteração de código
+
 <br>
-3. **Exercício** 
+
+	&nbsp;&nbsp;&nbsp; **Undo -** git checkout NOME_FICHEIRO
+
 </p>
+
+--
+
+## Versioning Model
+## <img align="center" width="70%" height="auto" src="img/img-6.png">
+
+--
+
+Obrigado
+
 --
